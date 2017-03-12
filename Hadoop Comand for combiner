@@ -1,0 +1,4 @@
+Hadoop Comand for combiner
+----------------------------
+
+hadoop jar /home/acadgild/assignment5/Task02.jar mapreduce.assignment5.task2.TotalUnitsSoldByEachCompanyWithCombiner /user/acadgild/hadoop/television.txt /user/acadgild/hadoop/TotalUnitsByEachCompanyCombiner1
