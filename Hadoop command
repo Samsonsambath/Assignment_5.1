@@ -1,0 +1,2 @@
+Command used is:
+hadoop jar /home/acadgild/assignment5/Task01.jar mapreduce.assignment5.task1.TotalUnitsSoldByEachCompanyWithReducers /user/acadgild/hadoop/television.txt /user/acadgild/hadoop/TotalUnitsByEachCompanyPartitioner2
