@@ -1,4 +1,4 @@
-package mapreduce.assignment5.task1;
+package mapreduce.assignment5.task2;
 
 import java.io.IOException;
 import java.util.regex.Pattern;
